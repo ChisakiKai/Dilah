@@ -3,12 +3,10 @@ class Config(object):
 
     # REQUIRED
     API_KEY = "1650661236:AAGx8FvurWpMWCuZLP4MCD6xpt54kDF1eZc"
-    OWNER_ID = (
-        "645739169"  # If you dont know, run the bot and do /id in your private chat with it
-    )
+    OWNER_ID = "645739169"
     OWNER_USERNAME = "Anomaliii"
-    TELETHON_HASH = ec3909aaa39889f44148d1f0e3c888be  # for purge stuffs
-    TELETHON_ID = 1511741
+    TELETHON_HASH = "ec3909aaa39889f44148d1f0e3c888be"
+    TELETHON_ID = "1511741"
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = "postgres://vgsowlwmzikesa:a2721be0c59c5e47edd768a851a527c4b5fae8629f5a7b52ee0dd5dcc2f24018@ec2-54-145-102-149.compute-1.amazonaws.com:5432/db1192jtlqsn1c"  # needed for any database modules
