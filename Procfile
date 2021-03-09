@@ -1,1 +1,1 @@
-web: python3 -m skylee
+workers: python3 -m skylee
