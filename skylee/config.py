@@ -2,7 +2,7 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "1650661236:AAFLyJOtimT4X5QihLraHhFVLYdQDz_uFP4"
+    API_KEY = "1507179031:AAFTc4xBPWo4pxUxV9Tnh7HU9HUyDz7xCRM"
     OWNER_ID = "645739169"
     OWNER_USERNAME = "Anomaliii"
     TELETHON_HASH = "ec3909aaa39889f44148d1f0e3c888be"
