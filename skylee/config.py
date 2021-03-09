@@ -13,7 +13,7 @@ class Config(object):
     MESSAGE_DUMP = "1194148221"
     LOAD = []
     NO_LOAD = []
-    URL = 
+    URL = "https://dilahyoo.herokuapp.com/"
 
     # OPTIONAL
     SUDO_USERS = (
