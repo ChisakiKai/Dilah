@@ -2,7 +2,7 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "1650661236:AAGx8FvurWpMWCuZLP4MCD6xpt54kDF1eZc"
+    API_KEY = "1650661236:AAFLyJOtimT4X5QihLraHhFVLYdQDz_uFP4"
     OWNER_ID = "645739169"
     OWNER_USERNAME = "Anomaliii"
     TELETHON_HASH = "ec3909aaa39889f44148d1f0e3c888be"
@@ -13,7 +13,7 @@ class Config(object):
     MESSAGE_DUMP = "1194148221"
     LOAD = []
     NO_LOAD = []
-    WEBHOOK = "False"
+    WEBHOOK = "ANYTHING"
     URL = "https://dilahyoo.herokuapp.com/"
 
     # OPTIONAL
