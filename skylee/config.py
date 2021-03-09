@@ -13,7 +13,7 @@ class Config(object):
     MESSAGE_DUMP = "1194148221"
     LOAD = []
     NO_LOAD = []
-    WEBHOOK = "ANYTHING"
+    WEBHOOK = "False"
     URL = "https://dilahyoo.herokuapp.com/"
 
     # OPTIONAL
