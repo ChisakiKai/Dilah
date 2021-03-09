@@ -10,7 +10,7 @@ class Config(object):
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = "postgres://vgsowlwmzikesa:a2721be0c59c5e47edd768a851a527c4b5fae8629f5a7b52ee0dd5dcc2f24018@ec2-54-145-102-149.compute-1.amazonaws.com:5432/db1192jtlqsn1c"  # needed for any database modules
-    MESSAGE_DUMP = 
+    MESSAGE_DUMP = "1194148221"
     LOAD = []
     NO_LOAD = []
     URL = 
